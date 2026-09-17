@@ -6,7 +6,7 @@ This repository contains a Streamlit application that calculates driving distanc
 
 ## Quick Overview
 
-- Primary UI: Streamlit app (`Distance-Fuel_calculator.py`) — run with `streamlit run Distance-Fuel_calculator.py`.
+- Primary UI: Streamlit app (`app_2.py`) — run with `streamlit run app_2.py`.
 - Geocoding & routing: OpenRouteService (requires `API_KEY`).
 - Database: SQL Server accessed via `pyodbc` ODBC Driver (expects `ODBC Driver 17 for SQL Server`).
 - Persisted artifacts: Trip records in the `Trip_Records` table and route map HTML files in `generated_maps/`.
