@@ -184,7 +184,7 @@ Before running the application, ensure the following requirements are met:
 After completing the prerequisites, start the Streamlit application using:
 
 ```bash
-streamlit run Distance-Fuel_calculator.py
+streamlit run app_2.py
 ```
 
 The application will:
